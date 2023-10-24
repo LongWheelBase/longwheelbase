@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ha Hai Long</h1>
-- 🔭 I graduated in **Banking, Corporate, Finance, and Securities Law from National Economics University (NEU) Vietnam**, and I have 3 years of investment and investment consulting experience in the Vietnamese market.
+- 🔭 I graduated in *Banking, Corporate, Finance, and Securities Law from National Economics University (NEU) Vietnam*, and I have 3 years of investment and investment consulting experience in the Vietnamese market.
 
 - 🌱 I’m currently learning financial data analysis with a passion for investment data and corporate financial evaluation models, with to become an expert in this groundbreaking and new field.
 
