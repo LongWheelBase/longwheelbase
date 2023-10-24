@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ha Hai Long</h1>
+- 🔭 I graduated in **Banking, Corporate, Finance, and Securities Law from National Economics University (NEU) Vietnam, and I have 3 years of investment and investment consulting experience in the Vietnamese market.**
+
+- 🌱 I’m currently learning **financial data analysis with a passion for investment data and corporate financial evaluation models, with to become an expert in this groundbreaking and new field.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/long-wheel-base" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/long-wheel-base" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100027295277081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100027295277081" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
